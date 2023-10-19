@@ -4,6 +4,7 @@
 	import '../styles/global.css';
 
 	export const prerender = true;
+	export const trailingSlash = 'always';
 </script>
 
 <div class="layout">
