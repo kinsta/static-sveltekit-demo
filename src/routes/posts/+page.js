@@ -1,3 +1,5 @@
+export const prerender = true;
+
 export const load = async (loadEvent) => {
 	const { fetch } = loadEvent;
 	const response = await fetch(

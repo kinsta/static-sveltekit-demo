@@ -21,7 +21,7 @@ After connecting the repository, **Static Site Hosting** will automatically popu
 | ----------------- | --------------- |
 | Build command     | `npm run build` |
 | Node version      | 18.16.0         |
-| Publish directory | `public`        |
+| Publish directory | `build`         |
 
 
 ### Deployment Lifecycle

@@ -1,3 +1,5 @@
+export const prerender = true;
+
 export const load = async (loadEvent) => {
 	const { fetch, params } = loadEvent;
 	const { postid } = params;
