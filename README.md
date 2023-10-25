@@ -1,8 +1,8 @@
-![sveltekit]()
+![static-sveltekit](https://github.com/olawanlejoel/static-sveltekit-demo/assets/57611810/826b7bba-0948-450c-804c-de2e25508ba9)
 
 # How To Build a Static Site With SvelteKit
 
-This article explains how to build a static site with Sveltekit and deploy to Kinsta.
+This article explains how to build a static site with Sveltekit and deploy it to Kinsta.
 
 Read the [full article](https://kinsta.com/blog/static-sveltekit/).
 
